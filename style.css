@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 85%;
+    height: 900px;
+    margin: 0 auto;
+}
+img{
+    height: 900px;
+}
